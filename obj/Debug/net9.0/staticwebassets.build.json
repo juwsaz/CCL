@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Xi/7FFYwuTlod8ET5/4lIL1NENSLLwxlE5AJc3hmdtI=",
+  "Source": "CCL.InventoryManagement.API",
+  "BasePath": "_content/CCL.InventoryManagement.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

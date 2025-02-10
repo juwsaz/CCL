@@ -1,0 +1,15 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "CCL Inventory API",
+    "description": "API para gestionar el inventario de productos de CCL",
+    "contact": {
+      "name": "Soporte CCL",
+      "url": "https://ccl.com",
+      "email": "soporte@ccl.com"
+    },
+    "version": "v1"
+  },
+  "paths": { },
+  "components": { }
+}

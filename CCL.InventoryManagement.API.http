@@ -1,0 +1,6 @@
+@CCL.InventoryManagement.API_HostAddress = http://localhost:5068
+
+GET {{CCL.InventoryManagement.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
