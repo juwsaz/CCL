@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "ContainingType": "CCL.InventoryManagement.API.Controllers.ProductController",
+    "Method": "GetInventario",
+    "RelativePath": "api/productos/inventario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CCL.InventoryManagement.API.Controllers.ProductController",
+    "Method": "MovimientoProducto",
+    "RelativePath": "api/productos/movimiento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CCL.InventoryManagement.API.Controllers.MovimientoProductoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CCL.InventoryManagement.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CCL.InventoryManagement.API.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
